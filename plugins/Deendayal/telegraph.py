@@ -37,4 +37,4 @@ async def c_upload(client, message: Message):
 
 
 
-#Telegram - @Deendayal_dhakad
+#Telegram - @super4crazy
