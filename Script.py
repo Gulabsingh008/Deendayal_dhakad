@@ -9,8 +9,8 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ MY ᴅᴇᴛᴀɪʟꜱ ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href='https://t.me/Deendayal_dhakad'>Deendayal_dhakad</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Sorry_Sorry_Galti_Ho_Gai'>जय श्री राम</a> 
+├⍟ Mʏ Nᴀᴍᴇ : <a href='https://t.me/AF_mhakal'>AF Mhakal</a>
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/af_mhakal'>जय श्री राम</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -27,7 +27,7 @@ class script(object):
 ▫ 𝟸𝟺x𝟽 sᴇʀᴠɪᴄᴇs ᴀᴠᴀɪʟᴀʙʟᴇ.</b>"""
 
     
-    STATUS_TXT = """<b>╭────[ Deendayal_dhakad ]────⍟
+    STATUS_TXT = """<b>╭────[ AF_Mhakal ]────⍟
 ├⍟ Tᴏᴛᴀʟ Fɪʟᴇs : <code>{}</code>
 ├⍟ Tᴏᴛᴀʟ Usᴇʀs : <code>{}</code>
 ├⍟ Tᴏᴛᴀʟ Cʜᴀᴛs : <code>{}</code>
@@ -268,7 +268,7 @@ Requested by : {message.from_user.mention}</b>"""
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
-🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ 𝐷𝑒𝑒𝑛𝑑𝑎𝑦𝑎𝑙_𝑑ℎ𝑎𝑘𝑎𝑑 ]</code>
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ AF_ Mhakal ]</code>
 </b>"""
 
     LOGO = """
@@ -338,7 +338,7 @@ BOT WORKING PROPERLY"""
 ○ ᴍᴜʟᴛɪ-ᴘʟᴀʏᴇʀ sᴛʀᴇᴀᴍɪɴɢ ʟɪɴᴋs
 ○ ᴀᴅ-ғʀᴇᴇ ᴇxᴘᴇʀɪᴇɴᴄᴇ
 
-👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/Sorry_Sorry_Galti_Ho_Gai'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
+👨‍💻 ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ <a href='https://t.me/af_mhakal'>Owner</a> ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ᴛʀɪᴀʟ.
 
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
@@ -405,7 +405,7 @@ BOT WORKING PROPERLY"""
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>deendayaldhaked@ybl</code>
+💵 ᴜᴘɪ ɪᴅ - <code>@ybl</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
