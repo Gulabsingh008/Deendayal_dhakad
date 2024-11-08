@@ -217,7 +217,7 @@ async def start(client, message):
             caption=script.PREPLANS_TXT.format(message.from_user.mention),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
-        )1114789110
+        )
         return  
     if len(message.command) == 2 and message.command[1].startswith('getfile'):
         movies = message.command[1].split("-", 1)[1] 
