@@ -1988,7 +1988,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚜️ Movie Group ⚜️', url="https://t.me/+swpuQspBoVxiNjdl"),
             InlineKeyboardButton('☔ Contact ☔', url="https://t.me/AF_Report_Feedback_bot")
         ],[
-            InlineKeyboardButton('🔥 Movie Update Notification 🔥', url="https://t.me/af_cinemasDeendayal_files_Update"),
+            InlineKeyboardButton('🔥 Movie Update Notification 🔥', url="https://t.me/af_cinemas"),
             InlineKeyboardButton('👮 Update Channel 👮', url="https://t.me/af_cinemas")
         ],[
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ ⇏', callback_data='start')
