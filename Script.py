@@ -249,7 +249,12 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b>{file_name}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/movierequest_latest">movierequest_latest</a>」</b>"""
+    CAPTION =  """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}</b>
+
+<b> Size ⚙️: {file_size}
+○Jᴏɪɴ :<a href="https://t.me/AF_cinemas">Cʜᴀɴɴᴇʟ</a>
+○Mᴏᴠɪᴇ : :<a href="https://t.me/+swpuQspBoVxiNjdl">Gʀᴏᴜᴘ</a>
+</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
